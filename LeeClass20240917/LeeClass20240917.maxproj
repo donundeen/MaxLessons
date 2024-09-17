@@ -1,9 +1,9 @@
 {
-	"name" : "Teaching",
+	"name" : "LeeClass20240917",
 	"version" : 1,
 	"creationdate" : 3809278577,
-	"modificationdate" : 3809387949,
-	"viewrect" : [ 75.0, 156.0, 300.0, 500.0 ],
+	"modificationdate" : 3809437263,
+	"viewrect" : [ 15.0, 155.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -40,6 +40,10 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+
+		}
+,
+		"code" : 		{
 
 		}
 
